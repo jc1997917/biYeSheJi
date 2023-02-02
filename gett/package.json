@@ -12,7 +12,7 @@
     "mint-ui": "^2.2.13",
     "mui": "0.0.1",
     "vue": "^2.5.22",
-    "vue-resource": "^1.5.1",
+    "vue-resource": "^1.5.3",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
